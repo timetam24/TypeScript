@@ -45,9 +45,21 @@
   }
   ```
 
-<!-- ## 2. 타입스크립트 기본
+<br/>
 
-## 3. 타입스크립트 이해하기
+## 2. 타입스크립트 기본
+
+- [원시타입과 리터럴타입](https://github.com/timetam24/TypeScript/commit/063e8e1cab49efd260c3baccb78a93fddadbcc59)
+- [배열과 튜플](https://github.com/timetam24/TypeScript/commit/c5f23d0372ba21206c53ea1d64ba8b5f56b88e6b)
+- [객체](https://github.com/timetam24/TypeScript/commit/13f4e563faec03428de16086c4e7fd0b57cce317)
+- [타입 별칭과 인덱스 시그니처](https://github.com/timetam24/TypeScript/commit/475b344e6d2816672b19e98ed444c04261547912)
+- [enum 타입](https://github.com/timetam24/TypeScript/commit/42625d29fa627d97a736e125878ef241458e119c)
+- [any와 unknown 타입](https://github.com/timetam24/TypeScript/commit/f5a367bcbdfcee93aca81be4caf564d11595401a)
+- [void와 never 타입](https://github.com/timetam24/TypeScript/commit/a67f7bce20ae9de0037fa0c998e0f8c9fc9ffbd9)
+
+<br/>
+
+<!-- ## 3. 타입스크립트 이해하기
 
 ## 4. 함수와 타입
 
