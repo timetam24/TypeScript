@@ -59,9 +59,25 @@
 
 <br/>
 
-<!-- ## 3. 타입스크립트 이해하기
+## 3. 타입스크립트 이해하기
 
-## 4. 함수와 타입
+### 타입 계층도
+
+ <img src="https://github.com/timetam24/TypeScript/assets/135303974/0659ec6a-b372-4c7f-a3e4-1cc562b48925" />
+
+ <br/>
+
+- [타입 계층도와 함께 기본타입 살펴보기](https://github.com/timetam24/TypeScript/commit/9a4c4d12d7da36c46dc7c5087993eecb104483a8)
+- [객체 타입의 호환성](https://github.com/timetam24/TypeScript/commit/3a20eaa53053355499cf437d9dc4ca2d13373472)
+- [대수 타입](https://github.com/timetam24/TypeScript/commit/b66196979b4c51f33b933276c0845f7b96499f59)
+- [타입 추론](https://github.com/timetam24/TypeScript/commit/fd7c92d015f1e44b480aece4f4e473d60a8e9e1d)
+- [타입 단언](https://github.com/timetam24/TypeScript/commit/43457778547fd2498b4ab2ab8a9062720ef17f94)
+- [타입 좁히기](https://github.com/timetam24/TypeScript/commit/9b5b5bf59966b7697660c74f8d59b84fc206842a)
+- [서로소 유니온 타입](https://github.com/timetam24/TypeScript/commit/a30fab65c89779a267299dac7af0fb9635ad1f7d)
+
+<br/>
+
+<!-- ## 4. 함수와 타입
 
 ## 5. 인터페이스
 
