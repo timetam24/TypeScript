@@ -87,9 +87,15 @@
 
 <br/>
 
-<!-- ## 5. 인터페이스
+## 5. 인터페이스
 
-## 6. 클래스
+- [인터페이스](https://github.com/timetam24/TypeScript/commit/acc1b91b31be3f6e9a35bb2208ecfda699fc5982)
+- [인터페이스 확장하기](https://github.com/timetam24/TypeScript/commit/a89d892f85ca608c1a19b12eaee93d388464d81b)
+- [인터페이스 선언 합치기](https://github.com/timetam24/TypeScript/commit/02adab1807cb5067ce9e7d4b38f141ece1d0875d)
+
+<br/>
+
+<!-- ## 6. 클래스
 
 ## 7. 제네릭
 
