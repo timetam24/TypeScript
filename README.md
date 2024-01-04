@@ -77,9 +77,17 @@
 
 <br/>
 
-<!-- ## 4. 함수와 타입
+## 4. 함수와 타입
 
-## 5. 인터페이스
+- [함수 타입](https://github.com/timetam24/TypeScript/commit/517953f787e576600d5ac05bd87e2b1f7ec56f2f)
+- [함수 타입 표현식과 호출 시그니쳐](https://github.com/timetam24/TypeScript/commit/c70217e75d0296189e66f47373d8588e5f25b81b)
+- [함수 타입의 호환성](https://github.com/timetam24/TypeScript/commit/b167ec305619251224f8b1762fc3044dd8348234)
+- [함수 오버로딩](https://github.com/timetam24/TypeScript/commit/c55dc21806ae83b0dd238cc23db2429f8fe495d1)
+- [사용자 정의 타입 가드](https://github.com/timetam24/TypeScript/commit/26708c01d131a0ab5dacbf951d216cc97b65bd2f)
+
+<br/>
+
+<!-- ## 5. 인터페이스
 
 ## 6. 클래스
 
