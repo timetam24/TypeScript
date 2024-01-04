@@ -95,9 +95,15 @@
 
 <br/>
 
-<!-- ## 6. 클래스
+## 6. 클래스
 
-## 7. 제네릭
+- [타입스크립트의 클래스](https://github.com/timetam24/TypeScript/commit/9e66d63fab5537e5eecf71990a9c8d8c5e308d04)
+- [접근 제어자](https://github.com/timetam24/TypeScript/commit/af3a9b03375772ca8626854b7fbbbd8d5ee005f9)
+- [인터페이스와 클래스](https://github.com/timetam24/TypeScript/commit/decf2c6b396c978b9ed22faf07a59575e6ceb540)
+
+<br/>
+
+<!-- ## 7. 제네릭
 
 ## 8. 타입 조작하기
 
