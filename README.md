@@ -114,8 +114,15 @@
 
 <br/>
 
-<!-- ## 8. 타입 조작하기
+## 8. 타입 조작하기
 
-## 9. 조건부 타입
+- [Indexed Access 타입](https://github.com/timetam24/TypeScript/commit/9652538dbf1375c5ad9b45e2694dbd297cb5a645)
+- [keyof 연산자](https://github.com/timetam24/TypeScript/commit/081089dcb3f7abf7df02bec34d18ef032e1d377e)
+- [Mapped 타입](https://github.com/timetam24/TypeScript/commit/6c6b644ae0ee23551c5434782905482096e07d78)
+- [Template Literal 타입](https://github.com/timetam24/TypeScript/commit/8f6dff074c6f74a74ac5346634dcbc3d352f28af)
+
+ <br/>
+
+<!-- ## 9. 조건부 타입
 
 ## 10. 유틸리티 타입 -->
