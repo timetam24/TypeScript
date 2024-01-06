@@ -123,6 +123,12 @@
 
  <br/>
 
-<!-- ## 9. 조건부 타입
+## 9. 조건부 타입
 
-## 10. 유틸리티 타입 -->
+- [조건부 타입](https://github.com/timetam24/TypeScript/commit/1abe56ba33c56835cad25baf3a69c8337037cacb)
+- [분산적인 조건부 타입](https://github.com/timetam24/TypeScript/commit/8d2c7d176f132a35c7d0438159d1522c28bd1717)
+- [infer - 조건부 타입 내에서 타입 추론하기](https://github.com/timetam24/TypeScript/commit/362966f4983a01160480ff39c896d15836df250e)
+
+ <br/>
+
+<!-- ## 10. 유틸리티 타입 -->
