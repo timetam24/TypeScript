@@ -1,5 +1,13 @@
 # TypScript 학습
 
+<br/>
+
+```
+npx create-react-app . --template typescript
+```
+
+<br/>
+
 ## 1. 타입스크립트 개론
 
 ### 점진적 타입 시스템이다
