@@ -131,4 +131,10 @@
 
  <br/>
 
-<!-- ## 10. 유틸리티 타입 -->
+## 10. 맵드 타입 기반의 유틸리티 타입
+
+- [Partial, Required, Readonly](https://github.com/timetam24/TypeScript/commit/126337aba454a7fe16a8981658edb14e7ee191a1)
+- [Pick, Omit, Record](https://github.com/timetam24/TypeScript/commit/55d786b7a07e45cf75f13b36a3303ef621a02bfa)
+- [Exclude, Extract, ReturnType](https://github.com/timetam24/TypeScript/commit/30d5072dad489aaea23248b85de7beb54f260525)
+
+ <br/>
